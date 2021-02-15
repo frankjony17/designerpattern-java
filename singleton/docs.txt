@@ -1,0 +1,7 @@
+
+O padrão Singleton permite criar objetos únicos para os quais há apenas uma instância.
+Este padrão oferece um ponto de acesso global, assim como uma variável global,
+porém sem as desvantagens das variáveis globais.
+
+O Padrão Singleton tem como definição garantir que uma classe tenha apenas uma instância de si mesma
+e que forneça um ponto global de acesso a ela
